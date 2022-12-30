@@ -7,7 +7,7 @@ printf '\n\033[1;32m Tiến Hành Cài Python\n\n'
 pkg install python
 pip install --upgrade pip
 pip install requests
-curl -s https://raw.githubusercontent.com/LocSadBoy/chaytool/main/main -o $home/usr/bin/LocSadBoy
-chmod 777 $home/usr/bin/toaidz
+curl -s https://raw.githubusercontent.com/LocSadBoy/chaytool/main/main.py -o $home/usr/bin/LocSadBoy
+chmod 777 $home/usr/bin/LocSadBoy
 
 printf '\n\033[1;32m Gõ \033[1;33mLocSadBoy \033[1;32mĐể Vào Tool <3\n\n'
